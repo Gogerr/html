@@ -1,0 +1,28 @@
+body {
+    background-image: url("../../images/cripback.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    background-size: cover;
+
+    text-align: center;
+}
+/*#adimage { 
+    position: absolute;
+    visibility: visible;
+    right: 30px;
+    top: 300px;
+    z-index: 200; 
+}*/
+.buycripad {
+    position: absolute;
+    visibility: visible;
+    right: 30px;
+    top: 100px;
+    z-index: 200;
+}
+.cripgang{
+    border-width: thick;
+    border-color: black;
+}
